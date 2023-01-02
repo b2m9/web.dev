@@ -132,7 +132,7 @@
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-istanbul": "^2.0.1",
     "rollup-plugin-node-resolve": "^5.2.0",
-    "rollup-plugin-postcss": "^2.5.0",
+    "rollup-plugin-postcss": "^4.0.2",
     "rollup-plugin-sourcemaps": "^0.4.2",
     "sass": "^1.22.7",
     "sass-lint": "^1.12.1",
